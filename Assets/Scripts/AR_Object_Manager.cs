@@ -35,17 +35,17 @@ public class AR_Object_Manager : MonoBehaviour
     {
         foreach (var AR_Object in AR_Args.added)
         {
-            RegisteredGameObjects[AR_Object.name].SetActive(true);
+            RegisteredGameObjects[AR_Object.referenceImage.name].SetActive(true);
         }
 
         foreach (var AR_Object in AR_Args.updated)
         {
-            RegisteredGameObjects[AR_Object.name].transform.position = AR_Object.transform.position;
+            RegisteredGameObjects[AR_Object.referenceImage.name].transform.position = AR_Object.transform.position;
         }
 
         foreach (var AR_Object in AR_Args.removed)
         {
-            RegisteredGameObjects[AR_Object.Value.name].SetActive(false);
+            RegisteredGameObjects[AR_Object.Value.referenceImage.name].SetActive(false);
         }
     }
 }
