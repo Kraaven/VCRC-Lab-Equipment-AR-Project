@@ -1,19 +1,9 @@
 fileFormatVersion: 2
-guid: 270f92b12ffb2f64881e2290221c3e6c
+guid: 047e8c10ccbd6f2419fdaa5913fa25f9
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: mat_IRcamera
-    second: {fileID: 2100000, guid: 7c9eba0403a8618478aa8e1061091866, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: mat_IRscreen
-    second: {fileID: 2100000, guid: b3ddc5861bf8cd44182c1d023b74658c, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
