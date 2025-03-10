@@ -606,7 +606,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 750615277742543320}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 6325410332952596990}
+        m_TargetAssemblyTypeName: AR_Object, Assembly-CSharp
+        m_MethodName: ToggleButtons
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &5795622801378326698
 GameObject:
   m_ObjectHideFlags: 0
@@ -868,7 +880,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MainUI: {fileID: 6617498435487059299}
-  InfoButton: {fileID: 3272192762038782763}
   TitleName: {fileID: 2141573028147810442}
   informationObjects:
   - {fileID: 3358827432166242906}
