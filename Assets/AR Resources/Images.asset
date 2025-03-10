@@ -21,9 +21,69 @@ MonoBehaviour:
       m_GuidLow: 4873457346436564332
       m_GuidHigh: 6664227436560245656
     m_SerializedTextureGuid:
-      m_GuidLow: 14575044267507697964
-      m_GuidHigh: 4817225761879305560
-    m_Size: {x: 0.1, y: 0.100867055}
-    m_SpecifySize: 1
+      m_GuidLow: 4738914803598039282
+      m_GuidHigh: 15038495481857002330
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 0
     m_Name: FlirCamera
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4775593638366007512
+      m_GuidHigh: 14415360148028048310
+    m_SerializedTextureGuid:
+      m_GuidLow: 12656380978083312903
+      m_GuidHigh: 17610700982213395274
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 0
+    m_Name: GooleCoral
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5208596559543129009
+      m_GuidHigh: 18137445084175380891
+    m_SerializedTextureGuid:
+      m_GuidLow: 8463581257387279035
+      m_GuidHigh: 5955659613559503768
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 0
+    m_Name: IntelMovidius
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5750657560404223751
+      m_GuidHigh: 2468308234953478023
+    m_SerializedTextureGuid:
+      m_GuidLow: 4563355599581391549
+      m_GuidHigh: 17393973801645951368
+    m_Size: {x: 0.1, y: 0.09756098}
+    m_SpecifySize: 0
+    m_Name: MetaQuest
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5125235127533161769
+      m_GuidHigh: 14167972832550421423
+    m_SerializedTextureGuid:
+      m_GuidLow: 13994000323801023217
+      m_GuidHigh: 17659671576740650472
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 0
+    m_Name: NightVision
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4765033317351275431
+      m_GuidHigh: 2347507242629921980
+    m_SerializedTextureGuid:
+      m_GuidLow: 5387447223145849262
+      m_GuidHigh: 9095670310666009688
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 0
+    m_Name: Nvidia
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4722495073037231531
+      m_GuidHigh: 17512956272906995851
+    m_SerializedTextureGuid:
+      m_GuidLow: 12764372365553791044
+      m_GuidHigh: 12362545566907279544
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 0
+    m_Name: RasberryPie
     m_Texture: {fileID: 0}
