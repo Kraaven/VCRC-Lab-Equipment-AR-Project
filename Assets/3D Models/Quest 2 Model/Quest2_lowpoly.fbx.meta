@@ -3,7 +3,12 @@ guid: bfabf84063fd84b479486963488a4359
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VR
+    second: {fileID: 2100000, guid: 5226ff7e4934be1418ef699db9b37724, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

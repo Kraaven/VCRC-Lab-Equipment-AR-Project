@@ -52,6 +52,7 @@ public class AR_Object_Manager : MonoBehaviour
         foreach (var RemovedImage in eventArgs.removed)
         {
             _RegisteredARObjects[RemovedImage.Value.referenceImage.name].gameObject.SetActive(false);
+            UpdateTrackedImage(RemovedImage.Value);
         }
         
     }
